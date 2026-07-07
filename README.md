@@ -1,4 +1,4 @@
-# VisiOS
+# VisiOS - Tab / Bookmark Manager OS
 
 Download VisiOS:
 https://beta-japan.com/
