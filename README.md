@@ -1,7 +1,14 @@
 # VisiOS
 
+<a href="https://beta-japan.com/exis" target=_blank><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=660&height=42&lines=VisiOS+changes+your+life;and+you+will+be+a+legend...;" alt="VisiOS changes your life"></a>
+<br><br>
+
 Download VisiOS:
 https://beta-japan.com/
+
+<br><br>
+
+[![VisiOS](https://img.youtube.com/vi/9KewhutQveA/0.jpg)](https://www.youtube.com/watch?v=9KewhutQveA)
 
 > **The Operating System for the Web.**
 
