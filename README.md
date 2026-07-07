@@ -13,7 +13,7 @@ https://beta-japan.com/
 
 VisiOS is a browser extension that transforms your browser into a visual operating system.
 
-I've started developping around early 2021 and released in **September 2023**, VisiOS reimagines how people interact with the web by providing an OS-like desktop experience directly inside the browser. Instead of switching between countless tabs and windows, everything is organized into a single visual workspace.
+I've started developping around late 2021 and released in **September 2023**, VisiOS reimagines how people interact with the web by providing an OS-like desktop experience directly inside the browser. Instead of switching between countless tabs and windows, everything is organized into a single visual workspace.
 
 ---
 
